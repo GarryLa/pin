@@ -26,7 +26,7 @@ $(function(){
 						$('#container a').css('cursor', 'default');
 					
 					}else{
-						alert('no se puede reproducir');
+						alert('this song was not found');
 					}
 				});
 			}else if( play ){
