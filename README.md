@@ -17,6 +17,11 @@ http://miquelcamps.com/proyectos/interfaz-tipo-pinterest-para-toprural-11870-e-i
 
 * Description: Popular songs and song finder.
 
+## slideshare
+
+* Description: Slideshow finder.
+* Requires API: http://www.slideshare.net/developers
+
 ## Make your own pinterest
 
 * You can copy & paste a file example: 11870.php, toprural.php or itunes.php
